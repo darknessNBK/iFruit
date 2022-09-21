@@ -1,0 +1,5 @@
+name: IFruitPlugin
+version: '${project.version}'
+main: com.lighty.ifruit.IFruitPlugin
+api-version: 1.19
+authors: [ Lighty, RaiTaki ]
